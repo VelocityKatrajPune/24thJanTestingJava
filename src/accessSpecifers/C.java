@@ -1,0 +1,4 @@
+package accessSpecifers;
+
+ class C {
+}
